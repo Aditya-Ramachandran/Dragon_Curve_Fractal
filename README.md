@@ -10,6 +10,7 @@ There are many fractals that are found in nature. One such fractal curve is know
 
 I used Python with Turtle package for both the methods, which simplifies my work down by a ton. Had I done it in C++, I would have had to write functions, and classes for drawing, painting, iterating and putting everything into a window. However, I do have plans for that, and if I can come up with a nice and easy working C++ code, I will put it up here. For now, let’s get cracking with Python.
 
+***P.S. The logic behind the code can be found in the documentation folder of this repository.***
 
 ## Results
 
